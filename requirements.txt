@@ -1,4 +1,4 @@
-bquery>=0.2.10
+-e git://github.com/simon-castano/bquery.git#egg=bquery
 pyzmq>=17.1.2
 redis>=3.0.1
 boto3>=1.9.82
